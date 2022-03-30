@@ -1,3 +1,3 @@
-DATA2410 Datanettverk og skytjenester
+##### **DATA2410 Datanettverk og skytjenester**
 
-Individual Portfolio Assignment 1
+**Individual Portfolio Assignment 1**
