@@ -15,7 +15,7 @@ print(f"Welcome, you have selected {bot.capitalize()}!")
 print(f"You are connecting to the server at {host}:{port}...")
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)     #connects u the ip and port u choose
-client_socket.connect((host, port))
+socket.connect(host, port)
 
 client_socket.setblocking(False)
 client_socket.send((bot.capitalize()).encode())
